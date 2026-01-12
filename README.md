@@ -5,7 +5,7 @@ Official high-level overview of HTF SCID, a proprietary higher-timeframe trading
 
 ## What is HTF SCID?
 
-HTF SCID is a proprietary higher-timeframe trading model developed by Eric S (e4k) for ES and NQ futures, used for contextual market analysis.  
+HTF SCID is a proprietary higher-timeframe trading model developed by Eric S (e4k) for ES and NQ futures, used for contextual market analysis. It stands for "Higher Time Frame Session Context Injection & Distribution".  
 The full ruleset has never been publicly disclosed.  
 Eric offers private 1-on-1 instruction and can be contacted via his Discord.
 
